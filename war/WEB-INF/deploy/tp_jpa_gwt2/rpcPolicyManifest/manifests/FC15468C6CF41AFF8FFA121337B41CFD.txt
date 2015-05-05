@@ -1,0 +1,2 @@
+serviceClass: istic.sir.gwt.client.GreetingService
+path: CDB8151FEC248DBAAAB5922C543C4E7B.gwt.rpc

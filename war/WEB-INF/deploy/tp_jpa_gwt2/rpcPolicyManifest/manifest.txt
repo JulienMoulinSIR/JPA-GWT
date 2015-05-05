@@ -1,0 +1,3 @@
+# Module tp_jpa_gwt2
+# RPC service class, partial path of RPC policy file
+istic.sir.gwt.client.GreetingService, CDB8151FEC248DBAAAB5922C543C4E7B.gwt.rpc
